@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669542165505",
+    "firebase_url": "https://retails-pulse-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "retails-pulse",
+    "storage_bucket": "retails-pulse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669542165505:android:9ddf27dffbfdd0a3ec2400",
+        "android_client_info": {
+          "package_name": "com.retailpulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669542165505-a862rv7d1socu541qp5u4lv59rsckbae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP4boRw9K1gHXfhxY95SWYVU8dm7Rx1Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669542165505-a862rv7d1socu541qp5u4lv59rsckbae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
